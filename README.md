@@ -1,6 +1,5 @@
-- Hi, I’m Gusti Pandu
-- I’m new to GitHub, so i'd appreciate it if you may help me
-- I’m currently learning about web development
+- I’m new to GitHub, so i'd appreciate it if you could help me
+- I’m currently learning data science
 
 - Add me on Discord: Disphere#9955
 <!---
